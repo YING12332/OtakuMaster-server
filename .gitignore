@@ -33,3 +33,8 @@ Thumbs.db
 
 # ===== Docker =====
 docker-compose.override.yml
+
+# ===== Runtime data (DO NOT COMMIT) =====
+data/*
+!data/.gitkeep
+
