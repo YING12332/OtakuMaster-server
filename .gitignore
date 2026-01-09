@@ -38,3 +38,5 @@ docker-compose.override.yml
 data/*
 !data/.gitkeep
 
+tool/
+tool/**

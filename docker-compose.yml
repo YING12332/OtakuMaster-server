@@ -40,7 +40,7 @@ services:
     env_file:
       - .env
     ports:
-      - "8080:8080"
+      - "80:8080"
     volumes:
       # - "D:/Desktop/MyProjects/OtakuMaster/OtakuMaster-server/data:/data"
       - "/opt/OtakuMaster-server/data:/data"
